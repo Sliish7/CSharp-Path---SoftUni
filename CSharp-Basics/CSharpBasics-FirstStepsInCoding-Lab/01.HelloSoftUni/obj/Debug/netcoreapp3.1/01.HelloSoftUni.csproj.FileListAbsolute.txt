@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.genruntimeconfig.cache

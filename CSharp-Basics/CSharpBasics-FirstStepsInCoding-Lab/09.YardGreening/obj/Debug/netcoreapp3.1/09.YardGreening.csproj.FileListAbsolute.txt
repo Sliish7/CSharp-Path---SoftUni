@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.genruntimeconfig.cache

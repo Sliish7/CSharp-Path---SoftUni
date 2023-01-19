@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.genruntimeconfig.cache

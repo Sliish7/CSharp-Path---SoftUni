@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.genruntimeconfig.cache

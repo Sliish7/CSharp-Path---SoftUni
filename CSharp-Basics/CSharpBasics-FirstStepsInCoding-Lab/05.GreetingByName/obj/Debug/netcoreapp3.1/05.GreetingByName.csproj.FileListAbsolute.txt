@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.genruntimeconfig.cache

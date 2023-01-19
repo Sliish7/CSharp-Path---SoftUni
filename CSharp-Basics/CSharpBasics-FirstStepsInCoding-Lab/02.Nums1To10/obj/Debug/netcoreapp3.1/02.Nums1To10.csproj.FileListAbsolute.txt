@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.genruntimeconfig.cache

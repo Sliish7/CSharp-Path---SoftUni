@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.genruntimeconfig.cache
