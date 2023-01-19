@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.genruntimeconfig.cache

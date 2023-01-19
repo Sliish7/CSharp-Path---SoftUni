@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\netcoreapp3.1\09.FishTank.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\netcoreapp3.1\09.FishTank.genruntimeconfig.cache

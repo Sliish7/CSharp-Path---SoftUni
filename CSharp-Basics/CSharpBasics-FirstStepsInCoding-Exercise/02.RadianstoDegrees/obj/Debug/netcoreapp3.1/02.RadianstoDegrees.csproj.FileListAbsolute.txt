@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.genruntimeconfig.cache

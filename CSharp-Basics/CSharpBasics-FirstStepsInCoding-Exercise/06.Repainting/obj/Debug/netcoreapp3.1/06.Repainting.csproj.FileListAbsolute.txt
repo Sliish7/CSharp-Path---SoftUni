@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\netcoreapp3.1\06.Repainting.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\netcoreapp3.1\06.Repainting.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\netcoreapp3.1\06.Repainting.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\netcoreapp3.1\06.Repainting.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\netcoreapp3.1\06.Repainting.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\netcoreapp3.1\06.Repainting.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\netcoreapp3.1\06.Repainting.genruntimeconfig.cache

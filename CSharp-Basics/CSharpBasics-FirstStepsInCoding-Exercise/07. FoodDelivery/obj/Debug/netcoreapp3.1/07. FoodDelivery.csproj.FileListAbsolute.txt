@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\bin\Debug\netcoreapp3.1\07. FoodDelivery.exe
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\bin\Debug\netcoreapp3.1\07. FoodDelivery.deps.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\bin\Debug\netcoreapp3.1\07. FoodDelivery.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\bin\Debug\netcoreapp3.1\07. FoodDelivery.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\bin\Debug\netcoreapp3.1\07. FoodDelivery.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\bin\Debug\netcoreapp3.1\07. FoodDelivery.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.dll
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.pdb
+D:\CSharp-Basics\CSharpBasics-FirstStepsInCoding-Exercise\07. FoodDelivery\obj\Debug\netcoreapp3.1\07. FoodDelivery.genruntimeconfig.cache
