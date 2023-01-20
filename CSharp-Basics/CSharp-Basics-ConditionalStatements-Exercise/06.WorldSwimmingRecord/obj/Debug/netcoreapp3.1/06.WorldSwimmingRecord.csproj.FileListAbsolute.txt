@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\bin\Debug\netcoreapp3.1\03.EvenorOdd.exe
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\bin\Debug\netcoreapp3.1\03.EvenorOdd.deps.json
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\bin\Debug\netcoreapp3.1\03.EvenorOdd.runtimeconfig.json
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\bin\Debug\netcoreapp3.1\03.EvenorOdd.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\bin\Debug\netcoreapp3.1\03.EvenorOdd.dll
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\bin\Debug\netcoreapp3.1\03.EvenorOdd.pdb
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.AssemblyInfo.cs
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.dll
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.pdb
+D:\CSharp-Basics\CSharpBasics-Conditional-Statements-Lab\03.EvenorOdd\obj\Debug\netcoreapp3.1\03.EvenorOdd.genruntimeconfig.cache
