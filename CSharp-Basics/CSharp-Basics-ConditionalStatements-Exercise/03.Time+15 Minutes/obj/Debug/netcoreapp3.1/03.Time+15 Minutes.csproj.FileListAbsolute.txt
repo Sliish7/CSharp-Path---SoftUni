@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatements-Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.genruntimeconfig.cache
