@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendorWorkingDay.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\02.WeekendorWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendorWorkingDay.genruntimeconfig.cache

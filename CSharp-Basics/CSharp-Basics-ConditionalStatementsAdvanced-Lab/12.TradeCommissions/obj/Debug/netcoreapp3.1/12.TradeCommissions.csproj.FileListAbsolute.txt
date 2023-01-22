@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.genruntimeconfig.cache

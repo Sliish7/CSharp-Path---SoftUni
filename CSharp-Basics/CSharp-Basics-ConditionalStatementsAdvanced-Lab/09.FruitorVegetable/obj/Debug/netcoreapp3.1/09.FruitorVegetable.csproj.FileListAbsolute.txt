@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\bin\Debug\netcoreapp3.1\09.FruitorVegetable.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\bin\Debug\netcoreapp3.1\09.FruitorVegetable.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\bin\Debug\netcoreapp3.1\09.FruitorVegetable.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\bin\Debug\netcoreapp3.1\09.FruitorVegetable.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\bin\Debug\netcoreapp3.1\09.FruitorVegetable.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\bin\Debug\netcoreapp3.1\09.FruitorVegetable.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Lab\09.FruitorVegetable\obj\Debug\netcoreapp3.1\09.FruitorVegetable.genruntimeconfig.cache
