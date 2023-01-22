@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\netcoreapp3.1\09.SkiTrip.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\netcoreapp3.1\09.SkiTrip.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\netcoreapp3.1\09.SkiTrip.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\netcoreapp3.1\09.SkiTrip.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\netcoreapp3.1\09.SkiTrip.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\netcoreapp3.1\09.SkiTrip.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\netcoreapp3.1\09.SkiTrip.genruntimeconfig.cache

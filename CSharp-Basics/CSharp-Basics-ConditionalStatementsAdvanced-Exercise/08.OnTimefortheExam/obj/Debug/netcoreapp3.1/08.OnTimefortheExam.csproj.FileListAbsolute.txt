@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\bin\Debug\netcoreapp3.1\08.OnTimefortheExam.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\bin\Debug\netcoreapp3.1\08.OnTimefortheExam.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\bin\Debug\netcoreapp3.1\08.OnTimefortheExam.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\bin\Debug\netcoreapp3.1\08.OnTimefortheExam.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\bin\Debug\netcoreapp3.1\08.OnTimefortheExam.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\bin\Debug\netcoreapp3.1\08.OnTimefortheExam.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\08.OnTimefortheExam\obj\Debug\netcoreapp3.1\08.OnTimefortheExam.genruntimeconfig.cache

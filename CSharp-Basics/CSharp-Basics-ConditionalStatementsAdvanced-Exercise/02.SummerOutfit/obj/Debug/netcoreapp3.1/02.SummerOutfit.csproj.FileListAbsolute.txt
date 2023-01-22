@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.genruntimeconfig.cache

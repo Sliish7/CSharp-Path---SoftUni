@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.exe
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.deps.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.dll
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.pdb
+D:\CSharp-Basics\CSharp-Basics-ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.genruntimeconfig.cache
