@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.exe
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.deps.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.dll
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\netcoreapp3.1\01.Numbersfrom1to100.pdb
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.dll
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.pdb
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\netcoreapp3.1\01.Numbersfrom1to100.genruntimeconfig.cache

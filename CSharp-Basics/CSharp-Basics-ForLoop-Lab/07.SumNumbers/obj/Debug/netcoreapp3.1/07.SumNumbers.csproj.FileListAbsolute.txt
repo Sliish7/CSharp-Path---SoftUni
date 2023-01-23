@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.exe
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.deps.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.dll
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.pdb
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.dll
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.pdb
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Lab\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.genruntimeconfig.cache
