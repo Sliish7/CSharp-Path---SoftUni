@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.exe
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.deps.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.dll
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\bin\Debug\netcoreapp3.1\04.CleverLily.pdb
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.dll
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.pdb
+D:\CSharp-Basics\CSharp-Basics-ForLoop-Exercise\04.CleverLily\obj\Debug\netcoreapp3.1\04.CleverLily.genruntimeconfig.cache
