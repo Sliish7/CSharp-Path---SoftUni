@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.exe
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.deps.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Lab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.genruntimeconfig.cache
