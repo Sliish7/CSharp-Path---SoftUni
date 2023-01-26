@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.exe
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.deps.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.genruntimeconfig.cache

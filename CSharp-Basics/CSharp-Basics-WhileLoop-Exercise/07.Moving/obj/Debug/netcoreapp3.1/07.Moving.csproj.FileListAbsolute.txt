@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.exe
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.deps.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\bin\Debug\netcoreapp3.1\07.Moving.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\07.Moving\obj\Debug\netcoreapp3.1\07.Moving.genruntimeconfig.cache

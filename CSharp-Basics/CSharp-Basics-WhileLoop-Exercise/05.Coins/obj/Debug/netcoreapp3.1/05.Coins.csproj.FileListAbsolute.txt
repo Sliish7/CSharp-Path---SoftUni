@@ -1,0 +1,14 @@
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.AssemblyReference.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.CoreCompileInputs.cache
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb
+D:\CSharp-Basics\CSharp-Basics-WhileLoop-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.genruntimeconfig.cache
