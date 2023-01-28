@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\netcoreapp3.1\03.SumPrimeNonPrime.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\netcoreapp3.1\03.SumPrimeNonPrime.genruntimeconfig.cache

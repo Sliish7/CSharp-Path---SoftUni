@@ -29,7 +29,7 @@ namespace _02.EqualSumsEvenOddPosition
 
                 if (odd == even)
                 {
-                    Console.WriteLine(i);
+                    Console.Write(i + " ");
                 }
             }
         }
