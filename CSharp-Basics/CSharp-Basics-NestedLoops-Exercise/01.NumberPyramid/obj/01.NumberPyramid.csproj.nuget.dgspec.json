@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj": {}
+    "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj": {
+    "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj",
         "projectName": "01.NumberPyramid",
-        "projectPath": "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj",
+        "projectPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\01.NumberPyramid.csproj",
         "packagesPath": "C:\\Users\\Kannoe\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\01.NumberPyramid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

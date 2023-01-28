@@ -12,3 +12,17 @@ D:\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\n
 D:\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.dll
 D:\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.pdb
 D:\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.genruntimeconfig.cache

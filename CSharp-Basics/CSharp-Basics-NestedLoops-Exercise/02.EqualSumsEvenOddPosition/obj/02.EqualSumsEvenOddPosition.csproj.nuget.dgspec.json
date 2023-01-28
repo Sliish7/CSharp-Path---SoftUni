@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj": {}
+    "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj": {
+    "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj",
         "projectName": "02.EqualSumsEvenOddPosition",
-        "projectPath": "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj",
+        "projectPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\02.EqualSumsEvenOddPosition.csproj",
         "packagesPath": "C:\\Users\\Kannoe\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Basics\\CSharp-Basics-NestedLoops-Exercise\\02.EqualSumsEvenOddPosition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.genruntimeconfig.cache
