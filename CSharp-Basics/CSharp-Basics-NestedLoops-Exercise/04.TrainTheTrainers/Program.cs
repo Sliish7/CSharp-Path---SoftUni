@@ -18,14 +18,14 @@ namespace _04.TrainTheTrainers
                     double grade = double.Parse(Console.ReadLine());
                     avgGrade += grade;
                 }
-                avgGrade = avgGrade/ judges;
+                avgGrade /= judges;
                 subjectCount++;
                 finalAsess += avgGrade;
 
                 Console.WriteLine($"{input} - {avgGrade:f2}.");
                 input = Console.ReadLine();
             }
-            finalAsess = finalAsess / subjectCount;
+            finalAsess /= subjectCount;
             Console.WriteLine($"Student's final assessment is {finalAsess:f2}.");
         }
     }
