@@ -20,7 +20,6 @@ namespace _01.NumberPyramid
                     Console.Write($"{counter} ");
                     counter++;
                 }
-
                 if (counter > num)
                 {
                     break;

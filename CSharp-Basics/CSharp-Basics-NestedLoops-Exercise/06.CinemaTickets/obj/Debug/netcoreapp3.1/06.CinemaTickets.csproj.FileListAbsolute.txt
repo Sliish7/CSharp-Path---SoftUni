@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\CSharp-Basics-NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.genruntimeconfig.cache
