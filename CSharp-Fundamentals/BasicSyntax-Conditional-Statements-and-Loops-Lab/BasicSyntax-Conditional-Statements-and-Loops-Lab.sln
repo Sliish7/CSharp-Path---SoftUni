@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BackIn30Minutes", "04.Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MonthPrinter", "05.MonthPrinter\05.MonthPrinter.csproj", "{51203AED-D773-4B80-8814-00576D646BB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ForeignLanguages", "06.ForeignLanguages\06.ForeignLanguages.csproj", "{C015990A-DCFA-445A-B96C-F1694F3A74E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{51203AED-D773-4B80-8814-00576D646BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51203AED-D773-4B80-8814-00576D646BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51203AED-D773-4B80-8814-00576D646BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C015990A-DCFA-445A-B96C-F1694F3A74E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C015990A-DCFA-445A-B96C-F1694F3A74E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C015990A-DCFA-445A-B96C-F1694F3A74E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C015990A-DCFA-445A-B96C-F1694F3A74E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
