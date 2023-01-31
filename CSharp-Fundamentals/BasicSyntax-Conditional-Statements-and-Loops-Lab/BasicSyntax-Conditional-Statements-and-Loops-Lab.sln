@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DivisibleBy3", "08.Divis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SumOfOddNumbers", "09.SumOfOddNumbers\09.SumOfOddNumbers.csproj", "{3771653F-C8DD-4F30-BB5D-F3B1CDF525EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MultiplicationTable", "10.MultiplicationTable\10.MultiplicationTable.csproj", "{51118D88-A37B-4590-867E-5351911F680D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{3771653F-C8DD-4F30-BB5D-F3B1CDF525EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3771653F-C8DD-4F30-BB5D-F3B1CDF525EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3771653F-C8DD-4F30-BB5D-F3B1CDF525EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51118D88-A37B-4590-867E-5351911F680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51118D88-A37B-4590-867E-5351911F680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51118D88-A37B-4590-867E-5351911F680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51118D88-A37B-4590-867E-5351911F680D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
