@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _02.Passed
+namespace _03.PassedOrFailed
 {
     internal class Program
     {
@@ -12,6 +12,8 @@ namespace _02.Passed
             {
                 Console.WriteLine("Passed!");
             }
+            else
+                Console.WriteLine("Failed!");
         }
     }
 }
