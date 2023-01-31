@@ -52,7 +52,7 @@ namespace _07.TheatrePromotion
                 }
             }
             else
-                Console.WriteLine("Error");
+                Console.WriteLine("Error!");
         }
     }
 }
