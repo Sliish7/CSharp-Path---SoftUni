@@ -12,3 +12,17 @@ C:\Users\Kannoe\Desktop\Problems\BasicSyntax-Conditional-Statements-and-Loops-La
 C:\Users\Kannoe\Desktop\Problems\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.dll
 C:\Users\Kannoe\Desktop\Problems\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.pdb
 C:\Users\Kannoe\Desktop\Problems\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\bin\Debug\netcoreapp3.1\01.Student Information.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\bin\Debug\netcoreapp3.1\01.Student Information.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\bin\Debug\netcoreapp3.1\01.Student Information.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\bin\Debug\netcoreapp3.1\01.Student Information.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\bin\Debug\netcoreapp3.1\01.Student Information.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\bin\Debug\netcoreapp3.1\01.Student Information.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops-Lab\01.Student Information\obj\Debug\netcoreapp3.1\01.Student Information.genruntimeconfig.cache
