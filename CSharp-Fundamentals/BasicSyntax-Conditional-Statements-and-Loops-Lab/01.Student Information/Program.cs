@@ -4,7 +4,7 @@ namespace _01.Student_Information
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string name = Console.ReadLine();
             int age = int.Parse(Console.ReadLine());
