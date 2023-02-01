@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.genruntimeconfig.cache
