@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Vacation", "03.Vacation\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{3DE4EFB7-4C93-4B6F-83DF-A2768FCA02B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Login", "05.Login\05.Login.csproj", "{B0FF365C-BF36-4147-AC33-4779313C9A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3DE4EFB7-4C93-4B6F-83DF-A2768FCA02B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DE4EFB7-4C93-4B6F-83DF-A2768FCA02B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DE4EFB7-4C93-4B6F-83DF-A2768FCA02B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FF365C-BF36-4147-AC33-4779313C9A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FF365C-BF36-4147-AC33-4779313C9A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FF365C-BF36-4147-AC33-4779313C9A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FF365C-BF36-4147-AC33-4779313C9A0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\bin\Debug\netcoreapp3.1\05.Login.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\bin\Debug\netcoreapp3.1\05.Login.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\05.Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache
