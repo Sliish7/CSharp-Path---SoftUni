@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MultiplicationTable", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.MultiplicationTable2.0", "11.MultiplicationTable2.0\11.MultiplicationTable2.0.csproj", "{EB339289-95B6-460B-B6DC-DEE7C50C307B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.EvenNumber", "12.EvenNumber\12.EvenNumber.csproj", "{351AA31E-F22A-49E4-931C-519113091377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{EB339289-95B6-460B-B6DC-DEE7C50C307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB339289-95B6-460B-B6DC-DEE7C50C307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB339289-95B6-460B-B6DC-DEE7C50C307B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351AA31E-F22A-49E4-931C-519113091377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351AA31E-F22A-49E4-931C-519113091377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351AA31E-F22A-49E4-931C-519113091377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351AA31E-F22A-49E4-931C-519113091377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

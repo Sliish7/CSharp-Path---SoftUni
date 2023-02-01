@@ -4,7 +4,7 @@ namespace _03.PassedOrFailed
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             double grade = double.Parse(Console.ReadLine());
 
