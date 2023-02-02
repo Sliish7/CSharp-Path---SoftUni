@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.genruntimeconfig.cache
