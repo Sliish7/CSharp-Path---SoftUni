@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.genruntimeconfig.cache
