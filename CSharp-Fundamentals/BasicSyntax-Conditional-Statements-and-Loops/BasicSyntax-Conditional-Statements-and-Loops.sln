@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Ages", "01.Ages\01.Ages.csproj", "{D3556175-FA6E-478C-B601-82F33C3B6819}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Ages", "01.Ages\01.Ages.csproj", "{D3556175-FA6E-478C-B601-82F33C3B6819}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Division", "02.Division\02.Division.csproj", "{A1C56D36-9D26-4215-A735-79202B42F54D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Division", "02.Division\02.Division.csproj", "{A1C56D36-9D26-4215-A735-79202B42F54D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{567A056C-421E-4CDD-859D-12A6E64AEAEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{567A056C-421E-4CDD-859D-12A6E64AEAEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{3DE4EFB7-4C93-4B6F-83DF-A2768FCA02B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{3DE4EFB7-4C93-4B6F-83DF-A2768FCA02B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Login", "05.Login\05.Login.csproj", "{B0FF365C-BF36-4147-AC33-4779313C9A0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Login", "05.Login\05.Login.csproj", "{B0FF365C-BF36-4147-AC33-4779313C9A0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StrongNumber", "06.StrongNumber\06.StrongNumber.csproj", "{82F10D97-6987-426E-A027-CDEC9DBBE129}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.StrongNumber", "06.StrongNumber\06.StrongNumber.csproj", "{82F10D97-6987-426E-A027-CDEC9DBBE129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VendingMachine", "07.VendingMachine\07.VendingMachine.csproj", "{464FF64B-02A4-4E27-8F1D-90B93E219B40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{82F10D97-6987-426E-A027-CDEC9DBBE129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F10D97-6987-426E-A027-CDEC9DBBE129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F10D97-6987-426E-A027-CDEC9DBBE129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464FF64B-02A4-4E27-8F1D-90B93E219B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464FF64B-02A4-4E27-8F1D-90B93E219B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464FF64B-02A4-4E27-8F1D-90B93E219B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464FF64B-02A4-4E27-8F1D-90B93E219B40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
