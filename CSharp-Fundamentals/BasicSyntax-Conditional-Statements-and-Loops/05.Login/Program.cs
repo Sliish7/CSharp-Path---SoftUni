@@ -32,7 +32,7 @@ namespace _05.Login
 
             if (tries != 4)
             {
-                Console.WriteLine($"User {username} momo logged in.");
+                Console.WriteLine($"User {username} logged in.");
             }
         }
     }
