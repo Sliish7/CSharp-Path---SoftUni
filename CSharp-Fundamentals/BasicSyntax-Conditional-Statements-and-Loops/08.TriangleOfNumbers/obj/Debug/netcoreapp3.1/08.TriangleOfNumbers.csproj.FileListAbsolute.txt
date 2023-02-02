@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-Conditional-Statements-and-Loops\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.genruntimeconfig.cache
