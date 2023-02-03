@@ -21,6 +21,7 @@ namespace _11.Orders
                 Console.WriteLine($"The price for the coffee is: ${coffePrice:f2}");
             }
 
+
             Console.WriteLine($"Total: ${total:f2}");
         }
     }
