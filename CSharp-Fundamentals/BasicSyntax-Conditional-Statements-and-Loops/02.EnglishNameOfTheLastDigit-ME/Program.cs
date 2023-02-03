@@ -4,7 +4,7 @@ namespace _02.EnglishNameOfTheLastDigit_ME
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int num = int.Parse(Console.ReadLine());
             string numAsStr = num.ToString();
@@ -36,5 +36,4 @@ namespace _02.EnglishNameOfTheLastDigit_ME
             };
         }
     }
-}
 }
