@@ -18,7 +18,6 @@ namespace _01.SortNumbers_ME
             {
                 Console.WriteLine(numbers[i]);
             }
-            
         }
     }
 }

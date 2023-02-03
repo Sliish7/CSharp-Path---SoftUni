@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EnglishNameOfTheLastDigi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GamingStore-ME", "03.GamingStore-ME\03.GamingStore-ME.csproj", "{DFB3C763-3754-4C1B-8831-66E5219555AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseString-ME", "04.ReverseString-ME\04.ReverseString-ME.csproj", "{D1BF1E4F-6FC0-4E51-BCCC-E37E845EF938}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{DFB3C763-3754-4C1B-8831-66E5219555AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFB3C763-3754-4C1B-8831-66E5219555AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFB3C763-3754-4C1B-8831-66E5219555AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BF1E4F-6FC0-4E51-BCCC-E37E845EF938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BF1E4F-6FC0-4E51-BCCC-E37E845EF938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BF1E4F-6FC0-4E51-BCCC-E37E845EF938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BF1E4F-6FC0-4E51-BCCC-E37E845EF938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

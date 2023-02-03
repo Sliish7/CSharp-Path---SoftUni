@@ -52,5 +52,6 @@ namespace _03.GamingStore_ME
             else
                 Console.WriteLine($"Total spent: ${balance - currBal:f2}. Remaining: ${currBal:f2}");
         }
+
     }
 }
