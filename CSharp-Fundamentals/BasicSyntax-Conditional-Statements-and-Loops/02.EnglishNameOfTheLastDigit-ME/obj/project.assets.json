@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Fundamentals\\BasicSyntax-Conditional-Statements-and-Loops\\02.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit-ME.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Fundamentals\\BasicSyntax-Conditional-Statements-and-Loops\\02.EnglishNameOfTheLastDigit-ME\\02.EnglishNameOfTheLastDigit-ME.csproj",
       "projectName": "02.EnglishNameOfTheLastDigit-ME",
-      "projectPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Fundamentals\\BasicSyntax-Conditional-Statements-and-Loops\\02.EnglishNameOfTheLastDigit\\02.EnglishNameOfTheLastDigit-ME.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Fundamentals\\BasicSyntax-Conditional-Statements-and-Loops\\02.EnglishNameOfTheLastDigit-ME\\02.EnglishNameOfTheLastDigit-ME.csproj",
       "packagesPath": "C:\\Users\\Kannoe\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Fundamentals\\BasicSyntax-Conditional-Statements-and-Loops\\02.EnglishNameOfTheLastDigit\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Path---SoftUni\\CSharp-Fundamentals\\BasicSyntax-Conditional-Statements-and-Loops\\02.EnglishNameOfTheLastDigit-ME\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
