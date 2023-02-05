@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{95D70F89-FEA5-45F5-84D7-917A14B5C60D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{95D70F89-FEA5-45F5-84D7-917A14B5C60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{BBE53D0D-D698-47AC-963B-DF5B26D8E43C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{95D70F89-FEA5-45F5-84D7-917A14B5C60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95D70F89-FEA5-45F5-84D7-917A14B5C60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95D70F89-FEA5-45F5-84D7-917A14B5C60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE53D0D-D698-47AC-963B-DF5B26D8E43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE53D0D-D698-47AC-963B-DF5B26D8E43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE53D0D-D698-47AC-963B-DF5B26D8E43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE53D0D-D698-47AC-963B-DF5B26D8E43C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
