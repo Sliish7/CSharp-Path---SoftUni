@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.genruntimeconfig.cache
