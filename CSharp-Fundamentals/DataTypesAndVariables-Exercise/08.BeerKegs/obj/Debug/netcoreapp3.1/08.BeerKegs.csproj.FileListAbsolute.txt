@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.genruntimeconfig.cache
