@@ -14,7 +14,6 @@ namespace _09.CharsToString
 
                 text += input.ToString();
             }
-
             Console.WriteLine(text);
         }
     }

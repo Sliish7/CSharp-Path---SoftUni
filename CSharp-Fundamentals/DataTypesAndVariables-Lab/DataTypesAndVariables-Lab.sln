@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TownInfo", "08.TownInfo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CharsToString", "09.CharsToString\09.CharsToString.csproj", "{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.LowerOrUpper", "10.LowerOrUpper\10.LowerOrUpper.csproj", "{9C09B317-88B5-48C7-BB88-8C6B4ACD8F49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C09B317-88B5-48C7-BB88-8C6B4ACD8F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C09B317-88B5-48C7-BB88-8C6B4ACD8F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C09B317-88B5-48C7-BB88-8C6B4ACD8F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C09B317-88B5-48C7-BB88-8C6B4ACD8F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
