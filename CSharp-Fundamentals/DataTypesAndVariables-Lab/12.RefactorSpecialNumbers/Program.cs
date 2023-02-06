@@ -16,8 +16,8 @@ namespace _12.RefactorSpecialNumbers
                     total += i % 10;
                     i = i / 10;
                 }
-                bool toe = (total == 5) || (total == 7) || (total == 11);
-                Console.WriteLine("{0} -> {1}", num, toe);
+                bool isSpecial = (total == 5) || (total == 7) || (total == 11);
+                Console.WriteLine("{0} -> {1}", num, isSpecial);
                 total = 0;
                 i = num;
             }
