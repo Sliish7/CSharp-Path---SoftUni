@@ -12,7 +12,7 @@ namespace _05.PrintPartOfASCIITable
             for (int i = startChar; i <= endChar; i++)
             {
                 char currChar = Convert.ToChar(i);
-                Console.Write(" {0}",currChar);
+                Console.Write(" {0}", currChar);
             }
         }
     }

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfChars", "04.SumOfCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintPartOfASCIITable", "05.PrintPartOfASCIITable\05.PrintPartOfASCIITable.csproj", "{140FF988-BAF9-4A2E-B0E8-462E66623113}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TriplesOfLatinLetters", "06.TriplesOfLatinLetters\06.TriplesOfLatinLetters.csproj", "{501907A5-EDAF-40A6-A2C2-36B5CE1EBD58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{140FF988-BAF9-4A2E-B0E8-462E66623113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{140FF988-BAF9-4A2E-B0E8-462E66623113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{140FF988-BAF9-4A2E-B0E8-462E66623113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501907A5-EDAF-40A6-A2C2-36B5CE1EBD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501907A5-EDAF-40A6-A2C2-36B5CE1EBD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501907A5-EDAF-40A6-A2C2-36B5CE1EBD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501907A5-EDAF-40A6-A2C2-36B5CE1EBD58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
