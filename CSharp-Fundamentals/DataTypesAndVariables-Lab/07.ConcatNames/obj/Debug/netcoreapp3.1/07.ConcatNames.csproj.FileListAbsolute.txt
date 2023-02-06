@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.genruntimeconfig.cache

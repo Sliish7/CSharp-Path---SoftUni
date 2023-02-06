@@ -5,15 +5,17 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{95D70F89-FEA5-45F5-84D7-917A14B5C60D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{BBE53D0D-D698-47AC-963B-DF5B26D8E43C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{BBE53D0D-D698-47AC-963B-DF5B26D8E43C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExactSumOfRealNumbers", "03.ExactSumOfRealNumbers\03.ExactSumOfRealNumbers.csproj", "{9A6D9545-532C-4682-9C0F-E02A3FB1B79C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExactSumOfRealNumbers", "03.ExactSumOfRealNumbers\03.ExactSumOfRealNumbers.csproj", "{9A6D9545-532C-4682-9C0F-E02A3FB1B79C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CenturiesToMinutes", "04.CenturiesToMinutes\04.CenturiesToMinutes.csproj", "{C905D241-CF71-46E4-BA92-6C8FB2DF1EA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CenturiesToMinutes", "04.CenturiesToMinutes\04.CenturiesToMinutes.csproj", "{C905D241-CF71-46E4-BA92-6C8FB2DF1EA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialNumbers", "05.SpecialNumbers\05.SpecialNumbers.csproj", "{CA6B1A6E-E0E1-4067-A65B-2D924144296A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SpecialNumbers", "05.SpecialNumbers\05.SpecialNumbers.csproj", "{CA6B1A6E-E0E1-4067-A65B-2D924144296A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReversedChars", "06.ReversedChars\06.ReversedChars.csproj", "{0529C14D-B4AD-49E5-AA57-4C9EB8E55067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReversedChars", "06.ReversedChars\06.ReversedChars.csproj", "{0529C14D-B4AD-49E5-AA57-4C9EB8E55067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ConcatNames", "07.ConcatNames\07.ConcatNames.csproj", "{69F1A199-1055-4117-8367-E72E4C2D261B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0529C14D-B4AD-49E5-AA57-4C9EB8E55067}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0529C14D-B4AD-49E5-AA57-4C9EB8E55067}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0529C14D-B4AD-49E5-AA57-4C9EB8E55067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F1A199-1055-4117-8367-E72E4C2D261B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F1A199-1055-4117-8367-E72E4C2D261B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F1A199-1055-4117-8367-E72E4C2D261B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F1A199-1055-4117-8367-E72E4C2D261B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
