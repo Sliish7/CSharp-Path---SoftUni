@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.genruntimeconfig.cache

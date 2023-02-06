@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ConcatNames", "07.Concat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TownInfo", "08.TownInfo\08.TownInfo.csproj", "{A5516A3D-18C6-4724-995C-462281DE8260}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CharsToString", "09.CharsToString\09.CharsToString.csproj", "{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A5516A3D-18C6-4724-995C-462281DE8260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5516A3D-18C6-4724-995C-462281DE8260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5516A3D-18C6-4724-995C-462281DE8260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A91C661-3CC0-4721-90C8-A96C4BA2C8E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
