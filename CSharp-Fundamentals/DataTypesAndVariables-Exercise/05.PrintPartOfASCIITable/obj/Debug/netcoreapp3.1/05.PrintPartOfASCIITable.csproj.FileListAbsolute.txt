@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.genruntimeconfig.cache
