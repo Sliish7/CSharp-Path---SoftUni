@@ -14,7 +14,6 @@ namespace _11.RefactorVolumeOfPyramid
             double height = double.Parse(Console.ReadLine());
             double volume = (length * width * height) / 3;
             Console.Write($"Pyramid Volume: {volume:f2}");
-
         }
     }
 }
