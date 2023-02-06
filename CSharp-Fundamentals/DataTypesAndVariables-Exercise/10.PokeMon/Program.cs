@@ -18,7 +18,7 @@ namespace _10.PokeMon
                 remainingPower -= distance;
                 targetCount++;
 
-                if (power / 2 == remainingPower)
+                if (power / 2 == remainingPower && exhaust != 0)
                 {
                     remainingPower /= exhaust;
                 }
