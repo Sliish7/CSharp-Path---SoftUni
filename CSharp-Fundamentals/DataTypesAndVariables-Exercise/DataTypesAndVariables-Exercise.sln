@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DataTypeFinder-ME", "01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FromLeftToTheRight-ME", "02.FromLeftToTheRight-ME\02.FromLeftToTheRight-ME.csproj", "{3655B83B-EE33-42B9-BAB1-5FB3934C8351}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FloatingEquality", "03.FloatingEquality\03.FloatingEquality.csproj", "{9F4910E0-D279-4869-BA6D-8CE9DA879591}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3655B83B-EE33-42B9-BAB1-5FB3934C8351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3655B83B-EE33-42B9-BAB1-5FB3934C8351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3655B83B-EE33-42B9-BAB1-5FB3934C8351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4910E0-D279-4869-BA6D-8CE9DA879591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4910E0-D279-4869-BA6D-8CE9DA879591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4910E0-D279-4869-BA6D-8CE9DA879591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4910E0-D279-4869-BA6D-8CE9DA879591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

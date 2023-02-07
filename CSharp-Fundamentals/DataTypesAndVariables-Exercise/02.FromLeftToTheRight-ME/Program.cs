@@ -18,19 +18,10 @@ namespace _02.FromLeftToTheRight_ME
                 BigInteger num1 = BigInteger.Parse(numbers[0]);
                 BigInteger num2 = BigInteger.Parse(numbers[1]);
 
-                if (num1 > num2)
-                {
-                    currNum = Math.Abs((decimal)num1).ToString();
-                    result = Result(currNum, result);
-                    Console.WriteLine(result);
-
-                }
-                else 
-                {
-                    currNum = Math.Abs((decimal)num2).ToString();
-                    result = Result(currNum, result);
-                    Console.WriteLine(result);
-                }
+                currNum = num1 > num2 ? Math.Abs((decimal)num1).ToString() : Math.Abs((decimal)num2).ToString();
+                result = Result(currNum, result);
+                Console.WriteLine(result);
+                
                 result= 0;
             }
         }
