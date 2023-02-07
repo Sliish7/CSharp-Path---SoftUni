@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\bin\Debug\netcoreapp3.1\05.DecryptingMessage-ME.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\bin\Debug\netcoreapp3.1\05.DecryptingMessage-ME.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\bin\Debug\netcoreapp3.1\05.DecryptingMessage-ME.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\bin\Debug\netcoreapp3.1\05.DecryptingMessage-ME.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\bin\Debug\netcoreapp3.1\05.DecryptingMessage-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\bin\Debug\netcoreapp3.1\05.DecryptingMessage-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\05.DecryptingMessage-ME\obj\Debug\netcoreapp3.1\05.DecryptingMessage-ME.genruntimeconfig.cache

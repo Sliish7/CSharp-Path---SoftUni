@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FloatingEquality-ME", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RefactoringPrimeChecker-ME", "04.RefactoringPrimeChecker-ME\04.RefactoringPrimeChecker-ME.csproj", "{2E13D26E-EE0A-4EC0-9DA5-A8AE3B6F60E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DecryptingMessage-ME", "05.DecryptingMessage-ME\05.DecryptingMessage-ME.csproj", "{A6335EA9-4F5C-4802-9664-B3D9010D26D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{2E13D26E-EE0A-4EC0-9DA5-A8AE3B6F60E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E13D26E-EE0A-4EC0-9DA5-A8AE3B6F60E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E13D26E-EE0A-4EC0-9DA5-A8AE3B6F60E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6335EA9-4F5C-4802-9664-B3D9010D26D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6335EA9-4F5C-4802-9664-B3D9010D26D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6335EA9-4F5C-4802-9664-B3D9010D26D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6335EA9-4F5C-4802-9664-B3D9010D26D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
