@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\02.FromLeftToTheRight-ME\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight-ME.genruntimeconfig.cache

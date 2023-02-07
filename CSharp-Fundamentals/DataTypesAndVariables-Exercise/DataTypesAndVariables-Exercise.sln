@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Snowballs", "11.Snowball
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DataTypeFinder-ME", "01.DataTypeFinder-ME\01.DataTypeFinder-ME.csproj", "{E83FB8DF-474D-48A0-B197-01798B8F727D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FromLeftToTheRight-ME", "02.FromLeftToTheRight-ME\02.FromLeftToTheRight-ME.csproj", "{3655B83B-EE33-42B9-BAB1-5FB3934C8351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E83FB8DF-474D-48A0-B197-01798B8F727D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E83FB8DF-474D-48A0-B197-01798B8F727D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83FB8DF-474D-48A0-B197-01798B8F727D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3655B83B-EE33-42B9-BAB1-5FB3934C8351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3655B83B-EE33-42B9-BAB1-5FB3934C8351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3655B83B-EE33-42B9-BAB1-5FB3934C8351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3655B83B-EE33-42B9-BAB1-5FB3934C8351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
