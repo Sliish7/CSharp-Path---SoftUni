@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\04.RefactoringPrimeChecker-ME\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker-ME.genruntimeconfig.cache
