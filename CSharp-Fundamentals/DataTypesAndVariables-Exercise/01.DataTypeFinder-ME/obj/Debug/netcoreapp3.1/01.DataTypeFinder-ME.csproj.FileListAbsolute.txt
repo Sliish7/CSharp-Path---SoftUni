@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\bin\Debug\netcoreapp3.1\01.DataTypeFinder-ME.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\bin\Debug\netcoreapp3.1\01.DataTypeFinder-ME.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\bin\Debug\netcoreapp3.1\01.DataTypeFinder-ME.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\bin\Debug\netcoreapp3.1\01.DataTypeFinder-ME.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\bin\Debug\netcoreapp3.1\01.DataTypeFinder-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\bin\Debug\netcoreapp3.1\01.DataTypeFinder-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypesAndVariables-Exercise\01.DataTypeFinder-ME\obj\Debug\netcoreapp3.1\01.DataTypeFinder-ME.genruntimeconfig.cache
