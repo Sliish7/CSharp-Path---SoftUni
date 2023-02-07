@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FromLeftToTheRight-ME", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FloatingEquality", "03.FloatingEquality\03.FloatingEquality.csproj", "{9F4910E0-D279-4869-BA6D-8CE9DA879591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FloatingEquality-ME", "03.FloatingEquality-ME\03.FloatingEquality-ME.csproj", "{FAA5BFF8-1CE8-4A2E-8916-538629F4B0F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{9F4910E0-D279-4869-BA6D-8CE9DA879591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F4910E0-D279-4869-BA6D-8CE9DA879591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F4910E0-D279-4869-BA6D-8CE9DA879591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA5BFF8-1CE8-4A2E-8916-538629F4B0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA5BFF8-1CE8-4A2E-8916-538629F4B0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA5BFF8-1CE8-4A2E-8916-538629F4B0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA5BFF8-1CE8-4A2E-8916-538629F4B0F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
