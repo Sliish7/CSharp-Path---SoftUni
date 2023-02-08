@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverse.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\02.PrintNumbersInReverse\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverse.genruntimeconfig.cache
