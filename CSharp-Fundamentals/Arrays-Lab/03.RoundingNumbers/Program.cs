@@ -12,7 +12,6 @@ namespace _03.RoundingNumbers
             {
                 double currNum = double.Parse(element);
                 
-
                 string result = $"{currNum} => {Math.Round(currNum, MidpointRounding.AwayFromZero)}";
                 Console.WriteLine(result);
             }

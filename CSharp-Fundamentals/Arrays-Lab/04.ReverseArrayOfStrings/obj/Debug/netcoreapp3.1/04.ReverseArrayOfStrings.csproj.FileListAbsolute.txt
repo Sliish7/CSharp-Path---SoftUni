@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.genruntimeconfig.cache
