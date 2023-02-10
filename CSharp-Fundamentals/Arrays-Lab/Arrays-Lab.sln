@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DayOfWeek", "01.DayOfWee
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PrintNumbersInReverse", "02.PrintNumbersInReverse\02.PrintNumbersInReverse.csproj", "{84AEDF79-D045-4E06-9289-C1C54F8538A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{877F5D96-8A03-414E-B719-8F52995E2C7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{877F5D96-8A03-414E-B719-8F52995E2C7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseArrayOfStrings", "04.ReverseArrayOfStrings\04.ReverseArrayOfStrings.csproj", "{D319F127-C106-419F-9F05-AFCCE8D8C30D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ReverseArrayOfStrings", "04.ReverseArrayOfStrings\04.ReverseArrayOfStrings.csproj", "{D319F127-C106-419F-9F05-AFCCE8D8C30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SumEvenNumbers", "05.SumEvenNumbers\05.SumEvenNumbers.csproj", "{5873C2C3-EFAA-4891-A897-0C4E32934355}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D319F127-C106-419F-9F05-AFCCE8D8C30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D319F127-C106-419F-9F05-AFCCE8D8C30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D319F127-C106-419F-9F05-AFCCE8D8C30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5873C2C3-EFAA-4891-A897-0C4E32934355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5873C2C3-EFAA-4891-A897-0C4E32934355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5873C2C3-EFAA-4891-A897-0C4E32934355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5873C2C3-EFAA-4891-A897-0C4E32934355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
