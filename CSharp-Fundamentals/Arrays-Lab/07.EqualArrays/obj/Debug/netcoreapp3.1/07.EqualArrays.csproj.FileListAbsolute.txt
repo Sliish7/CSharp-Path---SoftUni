@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.genruntimeconfig.cache
