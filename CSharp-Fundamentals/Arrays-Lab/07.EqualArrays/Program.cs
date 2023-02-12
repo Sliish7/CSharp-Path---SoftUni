@@ -15,7 +15,7 @@ namespace _07.EqualArrays
             {
                 if (array1[i] != array2[i])
                 {
-                    Console.WriteLine($"Arrays are not identical. Found difference at {i} index.");
+                    Console.WriteLine($"Arrays are not identical. Found difference at {i} index");
                     isIdentical = false;
                     break;
                 }
