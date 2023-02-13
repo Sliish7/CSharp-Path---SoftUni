@@ -18,9 +18,10 @@ namespace _05.TopIntegers
 
                 for (int j = index; j < numbers.Length; j++)
                 {
+                    //Debugging Variables
                     int A = numbers[i]; int B = numbers[j];
 
-                    if (numbers[i] < numbers[j])
+                    if (numbers[i] <= numbers[j])
                     {
                         isTop = false;
                         break;
