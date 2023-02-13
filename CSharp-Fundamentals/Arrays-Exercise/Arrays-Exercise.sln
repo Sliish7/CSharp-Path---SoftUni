@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Train", "01.Train\01.Train.csproj", "{91106732-E6F5-4C76-8A32-6326E19F0EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CommonElements", "02.CommonElements\02.CommonElements.csproj", "{C785FE5F-FFA1-4A27-948C-043B9136CE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91106732-E6F5-4C76-8A32-6326E19F0EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91106732-E6F5-4C76-8A32-6326E19F0EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91106732-E6F5-4C76-8A32-6326E19F0EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91106732-E6F5-4C76-8A32-6326E19F0EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C785FE5F-FFA1-4A27-948C-043B9136CE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C785FE5F-FFA1-4A27-948C-043B9136CE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C785FE5F-FFA1-4A27-948C-043B9136CE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C785FE5F-FFA1-4A27-948C-043B9136CE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {442AADFC-EBD5-45FB-9433-79F23A3150D8}
+	EndGlobalSection
+EndGlobal
