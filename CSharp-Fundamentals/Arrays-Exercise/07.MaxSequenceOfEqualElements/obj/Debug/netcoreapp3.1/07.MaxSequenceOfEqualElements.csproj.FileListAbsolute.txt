@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache
