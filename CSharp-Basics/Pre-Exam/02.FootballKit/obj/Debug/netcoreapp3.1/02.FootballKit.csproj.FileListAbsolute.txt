@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.genruntimeconfig.cache
