@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\bin\Debug\netcoreapp3.1\03.SantasHoliday.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\03.SantasHoliday\obj\Debug\netcoreapp3.1\03.SantasHoliday.genruntimeconfig.cache

@@ -16,7 +16,7 @@ namespace _02.FootballKit
 
             if (totalPrice >= sumNeeded)
             {
-                Console.WriteLine("Yes, he will earn the world - cup replica ball!");
+                Console.WriteLine("Yes, he will earn the world-cup replica ball!");
                 Console.WriteLine($"His sum is {totalPrice:f2} lv.");
             }
             else
