@@ -19,7 +19,7 @@ namespace _06.MultiplyTable
                     for (int n = 1; n <= firstDig; n++)
                     {
                         int result = i * j * n;
-                        Console.WriteLine($"{i} * {j} * {n} = {result}");
+                        Console.WriteLine($"{i} * {j} * {n} = {result};");
                     }
                 }
             }
