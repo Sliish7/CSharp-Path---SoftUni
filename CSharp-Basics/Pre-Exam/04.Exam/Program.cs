@@ -8,9 +8,9 @@ namespace _04.Exam
         {
             int students = int.Parse(Console.ReadLine());
             double topStudents = 0;
-            // < 4.99
+            // <= 4.99
             double group2 = 0;
-            // < 3,99
+            // <= 3,99
             double group3 = 0;
             // < 3.00
             double worstStudents = 0;
@@ -24,11 +24,11 @@ namespace _04.Exam
                 {
                     worstStudents++;
                 }
-                else if (studentGrade < 3.99)
+                else if (studentGrade <= 3.99)
                 {
                     group3++;
                 }
-                else if (studentGrade < 4.99)
+                else if (studentGrade <= 4.99)
                 {
                     group2++;
                 }

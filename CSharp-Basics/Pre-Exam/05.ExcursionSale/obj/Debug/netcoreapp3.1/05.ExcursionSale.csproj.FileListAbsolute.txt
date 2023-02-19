@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\bin\Debug\netcoreapp3.1\05.ExcursionSale.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\05.ExcursionSale\obj\Debug\netcoreapp3.1\05.ExcursionSale.genruntimeconfig.cache
