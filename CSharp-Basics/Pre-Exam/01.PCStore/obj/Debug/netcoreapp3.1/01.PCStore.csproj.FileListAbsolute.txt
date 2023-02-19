@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\bin\Debug\netcoreapp3.1\01.PCStore.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\bin\Debug\netcoreapp3.1\01.PCStore.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\bin\Debug\netcoreapp3.1\01.PCStore.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\bin\Debug\netcoreapp3.1\01.PCStore.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\bin\Debug\netcoreapp3.1\01.PCStore.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\bin\Debug\netcoreapp3.1\01.PCStore.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\01.PCStore\obj\Debug\netcoreapp3.1\01.PCStore.genruntimeconfig.cache
