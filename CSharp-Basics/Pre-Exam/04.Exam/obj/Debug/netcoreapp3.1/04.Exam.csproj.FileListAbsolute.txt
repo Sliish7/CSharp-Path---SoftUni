@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\bin\Debug\netcoreapp3.1\04.Exam.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\04.Exam\obj\Debug\netcoreapp3.1\04.Exam.genruntimeconfig.cache
