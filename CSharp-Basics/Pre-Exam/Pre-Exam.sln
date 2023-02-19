@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Exam", "04.Exam\04.Exam.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ExcursionSale", "05.ExcursionSale\05.ExcursionSale.csproj", "{B0251AE0-91C5-4E16-A2D2-AA7E5F0B8D1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MultiplyTable", "06.MultiplyTable\06.MultiplyTable.csproj", "{094AA511-3497-48CF-9810-2AEA22424FD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B0251AE0-91C5-4E16-A2D2-AA7E5F0B8D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0251AE0-91C5-4E16-A2D2-AA7E5F0B8D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0251AE0-91C5-4E16-A2D2-AA7E5F0B8D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094AA511-3497-48CF-9810-2AEA22424FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094AA511-3497-48CF-9810-2AEA22424FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094AA511-3497-48CF-9810-2AEA22424FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094AA511-3497-48CF-9810-2AEA22424FD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.runtimeconfig.dev.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Basics\Pre-Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.genruntimeconfig.cache
