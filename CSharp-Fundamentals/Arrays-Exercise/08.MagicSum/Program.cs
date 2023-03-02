@@ -21,7 +21,7 @@ namespace _08.MagicSum
                     if (j != i)
                     {
                         secondNum = numbers[j];
-                        totalSum = firstNum + secondNum;
+                            totalSum = firstNum + secondNum;
 
                         if (totalSum == magicNum )
                         {
