@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\bin\Debug\net6.0\01.Ages.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\bin\Debug\net6.0\01.Ages.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\bin\Debug\net6.0\01.Ages.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\bin\Debug\net6.0\01.Ages.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\bin\Debug\net6.0\01.Ages.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\refint\01.Ages.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\01.Ages.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\01.Ages\obj\Debug\net6.0\ref\01.Ages.dll
