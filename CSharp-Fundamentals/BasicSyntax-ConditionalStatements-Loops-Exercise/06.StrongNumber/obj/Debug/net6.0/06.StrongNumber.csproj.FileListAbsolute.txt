@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\refint\06.StrongNumber.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\06.StrongNumber\obj\Debug\net6.0\ref\06.StrongNumber.dll

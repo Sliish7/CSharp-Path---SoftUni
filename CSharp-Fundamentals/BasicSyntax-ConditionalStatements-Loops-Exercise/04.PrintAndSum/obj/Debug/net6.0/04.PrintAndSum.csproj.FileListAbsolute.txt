@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\bin\Debug\net6.0\04.PrintAndSum.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\refint\04.PrintAndSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\04.PrintAndSum.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\04.PrintAndSum\obj\Debug\net6.0\ref\04.PrintAndSum.dll
