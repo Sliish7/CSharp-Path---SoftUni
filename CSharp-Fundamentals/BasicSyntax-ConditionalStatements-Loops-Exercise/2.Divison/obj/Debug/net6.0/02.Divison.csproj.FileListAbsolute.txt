@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\bin\Debug\net6.0\02.Divison.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\bin\Debug\net6.0\02.Divison.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\bin\Debug\net6.0\02.Divison.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\bin\Debug\net6.0\02.Divison.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\bin\Debug\net6.0\02.Divison.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\refint\02.Divison.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\02.Divison.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\2.Divison\obj\Debug\net6.0\ref\02.Divison.dll
