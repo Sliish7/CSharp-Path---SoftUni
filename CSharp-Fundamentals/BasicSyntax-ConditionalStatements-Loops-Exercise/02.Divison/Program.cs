@@ -1,4 +1,4 @@
-﻿namespace _2.Divison
+﻿namespace _02.Divison
 {
     internal class Program
     {
