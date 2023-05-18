@@ -19,7 +19,6 @@
 
                 orders--;
             }
-
             Console.WriteLine($"Total: ${totalPrice:f2}");
         }
     }
