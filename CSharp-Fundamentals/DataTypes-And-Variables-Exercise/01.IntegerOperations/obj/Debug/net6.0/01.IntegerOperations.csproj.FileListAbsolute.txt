@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\refint\01.IntegerOperations.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\01.IntegerOperations\obj\Debug\net6.0\ref\01.IntegerOperations.dll

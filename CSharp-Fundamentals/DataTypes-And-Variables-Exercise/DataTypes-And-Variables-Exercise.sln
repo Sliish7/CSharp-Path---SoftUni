@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.IntegerOperations", "01.IntegerOperations\01.IntegerOperations.csproj", "{F35F164C-D35A-44AE-ADA1-BA49485E9CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumDigits", "02.SumDigits\02.SumDigits.csproj", "{CAE1D397-8C50-46F4-8D9B-BAB740A3CB98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35F164C-D35A-44AE-ADA1-BA49485E9CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35F164C-D35A-44AE-ADA1-BA49485E9CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35F164C-D35A-44AE-ADA1-BA49485E9CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35F164C-D35A-44AE-ADA1-BA49485E9CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE1D397-8C50-46F4-8D9B-BAB740A3CB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE1D397-8C50-46F4-8D9B-BAB740A3CB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE1D397-8C50-46F4-8D9B-BAB740A3CB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE1D397-8C50-46F4-8D9B-BAB740A3CB98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2E24629-4BBB-476C-A871-E35D32F4B902}
+	EndGlobalSection
+EndGlobal
