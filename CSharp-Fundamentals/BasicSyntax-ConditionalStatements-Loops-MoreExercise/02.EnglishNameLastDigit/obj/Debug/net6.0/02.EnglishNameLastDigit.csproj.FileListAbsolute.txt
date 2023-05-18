@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\net6.0\02.EnglishNameLastDigit.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\net6.0\02.EnglishNameLastDigit.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\net6.0\02.EnglishNameLastDigit.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\net6.0\02.EnglishNameLastDigit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\net6.0\02.EnglishNameLastDigit.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\refint\02.EnglishNameLastDigit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\02.EnglishNameLastDigit.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\net6.0\ref\02.EnglishNameLastDigit.dll
