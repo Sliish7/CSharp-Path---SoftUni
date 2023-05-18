@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\bin\Debug\net6.0\02.Division.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\bin\Debug\net6.0\02.Division.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\bin\Debug\net6.0\02.Division.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\bin\Debug\net6.0\02.Division.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\bin\Debug\net6.0\02.Division.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\refint\02.Division.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\02.Division.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-Exercise\02.Division\obj\Debug\net6.0\ref\02.Division.dll

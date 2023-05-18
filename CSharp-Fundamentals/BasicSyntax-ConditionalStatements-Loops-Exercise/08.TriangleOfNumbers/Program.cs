@@ -17,7 +17,6 @@
                     }
                     else
                         Console.Write($"{currNum}\n");
-
                 }
             }
         }
