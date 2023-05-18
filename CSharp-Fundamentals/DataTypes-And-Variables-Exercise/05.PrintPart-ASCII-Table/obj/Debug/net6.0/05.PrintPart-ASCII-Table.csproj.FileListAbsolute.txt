@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\bin\Debug\net6.0\05.PrintPart-ASCII-Table.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\bin\Debug\net6.0\05.PrintPart-ASCII-Table.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\bin\Debug\net6.0\05.PrintPart-ASCII-Table.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\bin\Debug\net6.0\05.PrintPart-ASCII-Table.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\bin\Debug\net6.0\05.PrintPart-ASCII-Table.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\refint\05.PrintPart-ASCII-Table.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\05.PrintPart-ASCII-Table.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\05.PrintPart-ASCII-Table\obj\Debug\net6.0\ref\05.PrintPart-ASCII-Table.dll

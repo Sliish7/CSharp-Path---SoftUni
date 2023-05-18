@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Elevator", "03.Elevator\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfChars", "04.SumOfChars\04.SumOfChars.csproj", "{81911594-D345-4B43-A5CF-CEF986C45AC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintPart-ASCII-Table", "05.PrintPart-ASCII-Table\05.PrintPart-ASCII-Table.csproj", "{F838E789-EA67-4D2B-A6AF-C6A1A4B51610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TriplesOfLatinLetters", "06.TriplesOfLatinLetters\06.TriplesOfLatinLetters.csproj", "{46A1D58A-F0E2-4BD8-A8D6-4822805D70DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{81911594-D345-4B43-A5CF-CEF986C45AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81911594-D345-4B43-A5CF-CEF986C45AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81911594-D345-4B43-A5CF-CEF986C45AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F838E789-EA67-4D2B-A6AF-C6A1A4B51610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F838E789-EA67-4D2B-A6AF-C6A1A4B51610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F838E789-EA67-4D2B-A6AF-C6A1A4B51610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F838E789-EA67-4D2B-A6AF-C6A1A4B51610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A1D58A-F0E2-4BD8-A8D6-4822805D70DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A1D58A-F0E2-4BD8-A8D6-4822805D70DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A1D58A-F0E2-4BD8-A8D6-4822805D70DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A1D58A-F0E2-4BD8-A8D6-4822805D70DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
