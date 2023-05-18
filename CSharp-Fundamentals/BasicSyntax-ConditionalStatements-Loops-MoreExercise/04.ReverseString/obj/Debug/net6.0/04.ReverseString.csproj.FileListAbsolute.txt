@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\refint\04.ReverseString.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\net6.0\ref\04.ReverseString.dll
