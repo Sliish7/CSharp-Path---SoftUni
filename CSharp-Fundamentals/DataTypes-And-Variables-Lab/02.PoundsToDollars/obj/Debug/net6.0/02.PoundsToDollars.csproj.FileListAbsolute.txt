@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\refint\02.PoundsToDollars.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\02.PoundsToDollars\obj\Debug\net6.0\ref\02.PoundsToDollars.dll

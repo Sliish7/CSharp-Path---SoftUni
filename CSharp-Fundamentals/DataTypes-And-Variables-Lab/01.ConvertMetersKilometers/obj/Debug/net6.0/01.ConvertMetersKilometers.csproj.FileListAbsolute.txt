@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\bin\Debug\net6.0\01.ConvertMetersKilometers.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\bin\Debug\net6.0\01.ConvertMetersKilometers.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\bin\Debug\net6.0\01.ConvertMetersKilometers.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\bin\Debug\net6.0\01.ConvertMetersKilometers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\bin\Debug\net6.0\01.ConvertMetersKilometers.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\refint\01.ConvertMetersKilometers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\01.ConvertMetersKilometers.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\01.ConvertMetersKilometers\obj\Debug\net6.0\ref\01.ConvertMetersKilometers.dll
