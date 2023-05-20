@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\bin\Debug\net6.0\07.ConcatNames.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\bin\Debug\net6.0\07.ConcatNames.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\bin\Debug\net6.0\07.ConcatNames.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\bin\Debug\net6.0\07.ConcatNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\bin\Debug\net6.0\07.ConcatNames.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\refint\07.ConcatNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\07.ConcatNames.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Lab\07.ConcatNames\obj\Debug\net6.0\ref\07.ConcatNames.dll
