@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\refint\08.BeerKegs.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-Exercise\08.BeerKegs\obj\Debug\net6.0\ref\08.BeerKegs.dll
