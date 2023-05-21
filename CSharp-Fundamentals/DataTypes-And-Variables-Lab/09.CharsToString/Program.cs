@@ -10,7 +10,6 @@
             {
                 chars[i] = char.Parse(Console.ReadLine());
             }
-
             foreach (char c in chars)
             {
                 Console.Write(c);
