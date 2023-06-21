@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\bin\Debug\net6.0\04.RefactoringPrimeChecker.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\refint\04.RefactoringPrimeChecker.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\04.RefactoringPrimeChecker.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\04.RefactoringPrimeChecker\obj\Debug\net6.0\ref\04.RefactoringPrimeChecker.dll
