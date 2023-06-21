@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FloatingEquality", "03.F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RefactoringPrimeChecker", "04.RefactoringPrimeChecker\04.RefactoringPrimeChecker.csproj", "{8DEE07DF-FD05-4F84-B8A1-C4A85BDE9574}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DecryptingMessage", "05.DecryptingMessage\05.DecryptingMessage.csproj", "{027F9E26-9636-4007-8294-CC7773C422A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BalancedBrackets", "06.BalancedBrackets\06.BalancedBrackets.csproj", "{52F85EAE-0E70-4C7D-9C18-CEC80800E4FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8DEE07DF-FD05-4F84-B8A1-C4A85BDE9574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DEE07DF-FD05-4F84-B8A1-C4A85BDE9574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DEE07DF-FD05-4F84-B8A1-C4A85BDE9574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027F9E26-9636-4007-8294-CC7773C422A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027F9E26-9636-4007-8294-CC7773C422A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027F9E26-9636-4007-8294-CC7773C422A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027F9E26-9636-4007-8294-CC7773C422A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F85EAE-0E70-4C7D-9C18-CEC80800E4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F85EAE-0E70-4C7D-9C18-CEC80800E4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F85EAE-0E70-4C7D-9C18-CEC80800E4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F85EAE-0E70-4C7D-9C18-CEC80800E4FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
