@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\bin\Debug\net6.0\01.DataTypeFinder.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\bin\Debug\net6.0\01.DataTypeFinder.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\bin\Debug\net6.0\01.DataTypeFinder.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\bin\Debug\net6.0\01.DataTypeFinder.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\bin\Debug\net6.0\01.DataTypeFinder.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\refint\01.DataTypeFinder.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\01.DataTypeFinder.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\DataTypes-And-Variables-MoreExercise\01.DataTypeFinder\obj\Debug\net6.0\ref\01.DataTypeFinder.dll
