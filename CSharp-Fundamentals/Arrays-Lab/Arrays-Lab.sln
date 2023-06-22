@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "1.DayOfWeek\01.DayOfWeek.csproj", "{B818D28E-D6A3-4EE4-B378-19987835C685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PrintNumbersInReverseOrder", "02.PrintNumbersInReverseOrder\02.PrintNumbersInReverseOrder.csproj", "{8AA4E842-1262-4638-A4FF-FA288AE04B23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PrintNumbersInReverseOrder", "02.PrintNumbersInReverseOrder\02.PrintNumbersInReverseOrder.csproj", "{8AA4E842-1262-4638-A4FF-FA288AE04B23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{FC7B2633-4682-4A84-BB5D-B64BDBB5EFE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{FC7B2633-4682-4A84-BB5D-B64BDBB5EFE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{66CDA484-6D8F-4BC8-A5D8-0290FE02FDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseArrayOfStrings", "04.ReverseArrayOfStrings\04.ReverseArrayOfStrings.csproj", "{2D68B3DF-8229-4B38-B360-EEDB0E4B6923}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B818D28E-D6A3-4EE4-B378-19987835C685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B818D28E-D6A3-4EE4-B378-19987835C685}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B818D28E-D6A3-4EE4-B378-19987835C685}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B818D28E-D6A3-4EE4-B378-19987835C685}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8AA4E842-1262-4638-A4FF-FA288AE04B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8AA4E842-1262-4638-A4FF-FA288AE04B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA4E842-1262-4638-A4FF-FA288AE04B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +25,14 @@ Global
 		{FC7B2633-4682-4A84-BB5D-B64BDBB5EFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC7B2633-4682-4A84-BB5D-B64BDBB5EFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC7B2633-4682-4A84-BB5D-B64BDBB5EFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CDA484-6D8F-4BC8-A5D8-0290FE02FDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CDA484-6D8F-4BC8-A5D8-0290FE02FDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CDA484-6D8F-4BC8-A5D8-0290FE02FDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CDA484-6D8F-4BC8-A5D8-0290FE02FDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D68B3DF-8229-4B38-B360-EEDB0E4B6923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D68B3DF-8229-4B38-B360-EEDB0E4B6923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D68B3DF-8229-4B38-B360-EEDB0E4B6923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D68B3DF-8229-4B38-B360-EEDB0E4B6923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
