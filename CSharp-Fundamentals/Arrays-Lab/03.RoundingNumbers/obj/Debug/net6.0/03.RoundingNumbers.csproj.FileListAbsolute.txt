@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\refint\03.RoundingNumbers.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\ref\03.RoundingNumbers.dll
