@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Train", "01.Train\01.Train.csproj", "{953AADAE-C43E-4054-9269-43B24014EEC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Train", "01.Train\01.Train.csproj", "{953AADAE-C43E-4054-9269-43B24014EEC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CommonElements", "02.CommonElements\02.CommonElements.csproj", "{505BCA82-ACB3-4FFC-A2D2-917FBD905184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CommonElements", "02.CommonElements\02.CommonElements.csproj", "{505BCA82-ACB3-4FFC-A2D2-917FBD905184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ZigZagArrays", "03.ZigZagArrays\03.ZigZagArrays.csproj", "{1CFBE88F-22EF-4AAB-BC8B-6C120621707C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ZigZagArrays", "03.ZigZagArrays\03.ZigZagArrays.csproj", "{1CFBE88F-22EF-4AAB-BC8B-6C120621707C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ArrayRotation", "04.ArrayRotation\04.ArrayRotation.csproj", "{4FA41393-73EA-4246-81EB-EB9FA4C39D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ArrayRotation", "04.ArrayRotation\04.ArrayRotation.csproj", "{4FA41393-73EA-4246-81EB-EB9FA4C39D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TopIntegers", "05.TopIntegers\05.TopIntegers.csproj", "{BFFF023F-9C93-420D-9826-3BD8AE933F41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4FA41393-73EA-4246-81EB-EB9FA4C39D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA41393-73EA-4246-81EB-EB9FA4C39D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA41393-73EA-4246-81EB-EB9FA4C39D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFF023F-9C93-420D-9826-3BD8AE933F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFF023F-9C93-420D-9826-3BD8AE933F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFF023F-9C93-420D-9826-3BD8AE933F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFF023F-9C93-420D-9826-3BD8AE933F41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
