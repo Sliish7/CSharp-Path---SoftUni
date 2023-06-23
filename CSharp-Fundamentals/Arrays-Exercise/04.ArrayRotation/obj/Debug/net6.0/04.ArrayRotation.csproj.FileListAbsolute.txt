@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\refint\04.ArrayRotation.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\net6.0\ref\04.ArrayRotation.dll
