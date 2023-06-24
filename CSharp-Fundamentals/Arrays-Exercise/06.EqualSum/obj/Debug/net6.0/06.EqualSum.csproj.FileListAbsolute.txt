@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\refint\06.EqualSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\ref\06.EqualSum.dll
