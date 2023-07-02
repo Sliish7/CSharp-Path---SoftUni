@@ -18,7 +18,6 @@ namespace _07.MaxSequenceOfEqualElements
 
                 if (index == 0)
                 {
-
                 }
                 else
                     prevNum = num;
