@@ -1,4 +1,6 @@
-﻿using System.Diagnostics.Metrics;
+﻿using System;
+using System.Diagnostics.Metrics;
+using System.Transactions;
 
 namespace _07.MaxSequenceOfEqualElements
 {
@@ -7,26 +9,35 @@ namespace _07.MaxSequenceOfEqualElements
         static void Main()
         {
             int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int counter = 1;
+            int biggestCounter = 1;
+            int? previousNum = null;
+            int index = 0;
 
-            Console.WriteLine(Counter(arr));
-        }
-
-        private static int Counter(int[] arr)
-        {
-            int counter = 0;
-            int previousNum;
-            foreach (int num in arr)
+            for (int i = 0; i < arr.Length; i++)
             {
-                if (num == previousNum)
+                if (arr[i] == previousNum)
                 {
+                    counter++;
 
+                    if (counter >= biggestCounter)
+                    {
+                        index = i;
+                        biggestCounter++;
+                    }
                 }
-
-                previousNum = num;
-
+                else
+                {
+                    counter = 0;
+                }
+                previousNum = arr[i];
             }
 
-            return 0;
+            for (int j = 0; j < biggestCounter; j++)
+            {
+                Console.Write($"{arr[index]} ");
+            }
+
         }
     }
 }
