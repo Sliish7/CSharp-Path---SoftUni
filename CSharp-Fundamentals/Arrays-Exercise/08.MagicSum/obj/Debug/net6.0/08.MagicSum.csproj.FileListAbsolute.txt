@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\bin\Debug\net6.0\08.MagicSum.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\bin\Debug\net6.0\08.MagicSum.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\bin\Debug\net6.0\08.MagicSum.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\bin\Debug\net6.0\08.MagicSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\bin\Debug\net6.0\08.MagicSum.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\refint\08.MagicSum.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\08.MagicSum.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Arrays-Exercise\08.MagicSum\obj\Debug\net6.0\ref\08.MagicSum.dll
