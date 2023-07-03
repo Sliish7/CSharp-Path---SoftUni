@@ -6,41 +6,27 @@ namespace _07.MaxSequenceOfEqualElements
     {
         static void Main()
         {
-            List<int> numbers = new List<int>(Console.ReadLine().Split(" ").Select(int.Parse).ToList());
-            int topNum = 0;
+            int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            Console.WriteLine(Counter(arr));
+        }
+
+        private static int Counter(int[] arr)
+        {
             int counter = 0;
-
-            foreach (int num in numbers)
+            int previousNum;
+            foreach (int num in arr)
             {
-                int index = numbers.IndexOf(num);
-                int prevNum = index;
-                counter++;
-
-                if (index == 0)
+                if (num == previousNum)
                 {
-                }
-                else
-                    prevNum = num;
 
-                int biggestCounter = 0;
-
-                if (num != prevNum && index != 0)
-                {
-                    counter = 0;
                 }
 
-
-                if (counter > biggestCounter)
-                {
-                    biggestCounter = counter;
-                    topNum = num;
-                }
-
-                Console.WriteLine($"Num {num} prevNum {prevNum} counter {counter} biggestConter{biggestCounter} Top Number for now: {topNum}");
+                previousNum = num;
 
             }
 
-            Console.WriteLine(topNum);
+            return 0;
         }
     }
 }
