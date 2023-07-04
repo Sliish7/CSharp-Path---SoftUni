@@ -1,4 +1,8 @@
-﻿using System.Transactions;
+﻿using System;
+using System.Diagnostics.Metrics;
+using System.Reflection;
+using System.Reflection.PortableExecutable;
+using System.Transactions;
 
 namespace _09.KaminoFactory
 {
@@ -8,41 +12,107 @@ namespace _09.KaminoFactory
         {
             int length = int.Parse(Console.ReadLine());
             string input =string.Empty;
-            int[] bestDNA = {0, 0, 0, 0, 0};
-            int biggestCount = 1;
-            int leftmostIndex = length;
+            int[] bestDNA = null;
+
+            int counterDNA = 1;
+            int bestSequenceIndex = 1;
+            int bestSequenceSum = 0;
+            int bestCount = 0;
+            int bestLeftmost = length;
 
             while ((input = Console.ReadLine()) != "Clone them!")
             {
-                int[] dna = input.Split(" ").Select(int.Parse).ToArray();
-                int startIndex = length;
-                int count = 0;
+                int[] currentDNA = input.Split("!").Select(int.Parse).ToArray();
+                int currentCount = 0;
+                int biggestCurrCount = 0;
+                int currentLeftmostIndex = 0;
+                int currSequenceSum = 0;
 
-                for (int i = 0; i < length; i++)
+                for (int i = 1; i <= currentDNA.Length; i++)
                 {
-                    if (dna[i] == 1)
+                    if (currentDNA[i - 1] == 1)
                     {
-                        if (count < biggestCount && startIndex > leftmostIndex)
+                        currentCount++;
+                        currSequenceSum ++;
+
+                        if (currentCount > biggestCurrCount)
                         {
-                            startIndex = i;
+                            currentLeftmostIndex = i - currentCount;
+                            biggestCurrCount = currentCount;
                         }
-                        count++;
 
                     }
                     else
-                        count = 0;
+                        currentCount = 0;
 
+                    
                 }
 
-                if (count >= biggestCount && startIndex <= leftmostIndex)
+
+                if (bestCount == biggestCurrCount)
                 {
-                    leftmostIndex = startIndex;
-                    biggestCount = count;
-                    bestDNA = dna;
+                    if (bestLeftmost > currentLeftmostIndex)
+                    {
+                        bestDNA = currentDNA;
+                        bestCount = biggestCurrCount;
+                        bestLeftmost = currentLeftmostIndex;
+                        bestSequenceIndex = counterDNA;
+                        bestSequenceSum = currSequenceSum;
+
+                    }
+                    else if (bestLeftmost == currentLeftmostIndex)
+                    {
+                        if (CompareSum(bestDNA,currentDNA) == true)
+                        {
+                            bestDNA = currentDNA;
+                            bestCount = biggestCurrCount;
+                            bestLeftmost = currentLeftmostIndex;
+                            bestSequenceIndex = counterDNA;
+                            bestSequenceSum = currSequenceSum;
+                        }
+                    }
+                }
+                else if (bestCount < biggestCurrCount)
+                {
+                    bestDNA = currentDNA;
+                    bestCount = biggestCurrCount;
+                    bestLeftmost = currentLeftmostIndex;
+                    bestSequenceIndex = counterDNA;
+                    bestSequenceSum = currSequenceSum;
+                }
+
+                counterDNA++;
+            }
+
+            Console.WriteLine($"Best DNA sample {bestSequenceIndex} with sum: {bestSequenceSum}.");
+            Console.WriteLine(string.Join(" ", bestDNA));
+        }
+
+        private static bool CompareSum(int[] bestDNA, int[] currentDNA)
+        {
+            int bestDNAsum = 0;
+            int currDNAsum = 0;
+            bool isBetter = false;
+
+            for (int i = 0; i < bestDNA.Length; i++)
+            {
+
+                if (bestDNA[i] == 1)
+                {
+                    bestDNAsum++;
+                }
+                if (currentDNA[i] == 1)
+                {
+                    currDNAsum++;
                 }
             }
 
-            Console.WriteLine(string.Join(" ", bestDNA));
+            if (currDNAsum > bestDNAsum)
+            {
+                isBetter = true;
+            }
+
+            return isBetter;
         }
     }
 }
