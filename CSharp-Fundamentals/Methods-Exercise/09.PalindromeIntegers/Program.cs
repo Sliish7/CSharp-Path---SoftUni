@@ -4,11 +4,6 @@
     {
         static void Main()
         {
-            int[] arr = { 2, 3, 4, 5, 6 };
-            int[] arr2 = new int[arr.Length];
-            Array.Copy(arr, arr2, arr.Length);
-            Array.Reverse(arr2);
-
             string input = Console.ReadLine();
             while (input != "END")
             {
