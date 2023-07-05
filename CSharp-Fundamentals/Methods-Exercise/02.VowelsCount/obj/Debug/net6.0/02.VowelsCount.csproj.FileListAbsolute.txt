@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\refint\02.VowelsCount.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\02.VowelsCount\obj\Debug\net6.0\ref\02.VowelsCount.dll
