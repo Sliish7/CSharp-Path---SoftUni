@@ -13,7 +13,6 @@
             while (input != "END")
             {
                 Console.WriteLine(PalindromeIntegers(input));
-
                 input = Console.ReadLine();
             }
         }
@@ -22,7 +21,6 @@
         {
             bool isPalindrome = true;
             int number = int.Parse(input);
-
             char[] digits = number.ToString().ToCharArray();
             char[] reversed = new char[digits.Length];
             Array.Copy(digits, reversed, digits.Length);
@@ -35,10 +33,7 @@
                     isPalindrome = false;
                     break;
                 }
-                else
-                    isPalindrome= true;
             }
-
             return isPalindrome;
         }
     }
