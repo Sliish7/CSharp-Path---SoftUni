@@ -6,11 +6,8 @@ namespace _04.PasswordValidator
     {
         static void Main()
         {
-            while (true)
-            {
-                char[] input = Console.ReadLine().ToCharArray();
-                Console.WriteLine(PasswordValidator(input));
-            }
+            char[] input = Console.ReadLine().ToCharArray();
+            Console.WriteLine(PasswordValidator(input));
         }
 
         private static string PasswordValidator(char[] input)
