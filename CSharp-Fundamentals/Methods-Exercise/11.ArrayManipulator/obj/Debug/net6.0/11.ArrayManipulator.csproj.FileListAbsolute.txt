@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\net6.0\11.ArrayManipulator.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\net6.0\11.ArrayManipulator.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\net6.0\11.ArrayManipulator.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\net6.0\11.ArrayManipulator.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\bin\Debug\net6.0\11.ArrayManipulator.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\refint\11.ArrayManipulator.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\11.ArrayManipulator.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Methods-Exercise\11.ArrayManipulator\obj\Debug\net6.0\ref\11.ArrayManipulator.dll
