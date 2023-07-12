@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\bin\Debug\net6.0\02.ChangeList.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\bin\Debug\net6.0\02.ChangeList.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\bin\Debug\net6.0\02.ChangeList.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\bin\Debug\net6.0\02.ChangeList.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\bin\Debug\net6.0\02.ChangeList.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\refint\02.ChangeList.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\02.ChangeList.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Lists-Exercise\02.ChangeList\obj\Debug\net6.0\ref\02.ChangeList.dll
