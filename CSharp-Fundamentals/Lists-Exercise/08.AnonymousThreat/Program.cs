@@ -1,41 +1,98 @@
-﻿namespace _08.AnonymousThreat
+﻿using System.Text;
+
+namespace _08.AnonymousThreat
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string str = Console.ReadLine();
-            Console.WriteLine("String len:" + str.Length);
-            int divide = int.Parse(Console.ReadLine());
-            List<string> output = SplitStringEvenly(str, divide);
-            Console.WriteLine(string.Join(",", output));
+            List<string> list = Console.ReadLine().Split(" ").ToList();
+            string arguments = string.Empty;
 
-            foreach (var item in output)
+            while ((arguments = Console.ReadLine()) != "3:1")
             {
-                Console.WriteLine(item);
+                string[] argsArr =  arguments.Split().ToArray();
+                string command = argsArr[0];
+
+                foreach (string item in list)
+                {
+                    item.Replace(" ", "");
+                }
+
+                switch (command)
+                {
+                    case "merge":
+                        list = MergeItems(list, argsArr);
+                        break;
+                    case "divide":
+                        list = DivideItem(list, argsArr);
+                        break;
+                }
             }
+
+            Console.WriteLine(string.Join(" ", list));
         }
 
-        static List<string> SplitStringEvenly(string str, int divide) //works perfectly
+        private static List<string> MergeItems(List<string> list, string[] argsArr)
         {
+            int startIndex = int.Parse(argsArr[1]);
+            int endIndex = int.Parse(argsArr[2]);
+            if (endIndex >= list.Count)
+            {
+                endIndex = list.Count - 1;
+            }
+
+            if (startIndex < 0)
+            {
+                startIndex = 0;
+            }
+            else if (startIndex > endIndex)
+            {
+                return list;
+            }
+
+            for (int i = startIndex; i < endIndex; i++)
+            {
+
+                list[startIndex] += list[startIndex + 1];
+                list.RemoveAt(startIndex + 1);
+
+            }
+
+            return list;
+        }
+
+        private static List<string> DivideItem(List<string> list, string[] argsArr)
+        {
+            int index = int.Parse(argsArr[1]);
+            int parts = int.Parse(argsArr[2]);
+            string str = list[index];
+            list.RemoveAt(index);
+
+            int partLength = str.Length / parts;
             List<string> dividedParts = new List<string>();
-            str = str.Replace(" ", "");
-            int length = str.Length;
-            int numParts = length / divide;
-            Console.WriteLine(numParts);
 
-            for (int i = 0; i < numParts; i++)
+            for (int i = 0; i < parts; i++)
             {
-                string part = str.Substring(i * divide, divide);
-                dividedParts.Add(part);
+                string currPart = str.Substring(0, partLength);
+                str = str.Substring(partLength);
+                dividedParts.Add(currPart);
             }
 
-            string remainingPart = str.Substring(numParts * divide);
-            if (!string.IsNullOrEmpty(remainingPart))
+            if (str != "")
             {
-                dividedParts.Add(remainingPart);
+                dividedParts[dividedParts.Count - 1] += str;
             }
-            return dividedParts;
+
+            dividedParts.Reverse();
+
+            foreach (string i in dividedParts)
+            {
+                list.Insert(index, i);
+            }
+
+
+            return list;
         }
     }
 }
