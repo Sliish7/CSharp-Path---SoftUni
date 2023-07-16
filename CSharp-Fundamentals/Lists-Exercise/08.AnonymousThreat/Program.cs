@@ -53,10 +53,8 @@ namespace _08.AnonymousThreat
 
             for (int i = startIndex; i < endIndex; i++)
             {
-
                 list[startIndex] += list[startIndex + 1];
                 list.RemoveAt(startIndex + 1);
-
             }
 
             return list;
