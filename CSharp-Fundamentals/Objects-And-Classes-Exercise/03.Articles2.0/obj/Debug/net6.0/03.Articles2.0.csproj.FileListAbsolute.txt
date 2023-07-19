@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\refint\03.Articles2.0.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\03.Articles2.0\obj\Debug\net6.0\ref\03.Articles2.0.dll
