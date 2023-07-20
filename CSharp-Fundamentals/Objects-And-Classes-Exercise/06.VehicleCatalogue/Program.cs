@@ -3,12 +3,6 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace _06.VehicleCatalogue
 {
-
-    /*Type: {typeOfVehicle}
-    Model: {modelOfVehicle}
-    Color: {colorOfVehicle}
-    Horsepower: {horsepowerOfVehicle}"
-    */
     internal class Program
     {
         static void Main()
@@ -22,7 +16,7 @@ namespace _06.VehicleCatalogue
                 string type = arguments[0];
                 string model = arguments[1];
                 string color = arguments[2];
-                int horsepower = int.Parse(arguments[3]);
+                decimal horsepower = decimal.Parse(arguments[3]);
 
                 Vehicle vehicle = new Vehicle(type, model, color, horsepower);
                 vehicles.Add(vehicle);
@@ -38,12 +32,19 @@ namespace _06.VehicleCatalogue
 
                 if (filteredVehicles != null)
                 {
-                   Console.WriteLine(string.Join("", filteredVehicles));
+                   Console.WriteLine(filteredVehicles.ToString());
                 }
             }
 
-            decimal avgCarHP = (decimal)vehicles.Where(x => x.Type == "Car").Select(x => x.Horsepower).Average();
-            decimal avgTruckHP = (decimal)vehicles.Where(x => x.Type == "Truck").Select(x => x.Horsepower).Average();
+            decimal avgCarHP = (decimal)vehicles.Where(x => x.Type == "Car")
+                .Select(x => x.Horsepower)
+                .DefaultIfEmpty()
+                .Average();
+            decimal avgTruckHP = (decimal)vehicles.Where(x => x.Type == "Truck")
+                .Select(x => x.Horsepower)
+                .DefaultIfEmpty()
+                .Average();
+            
 
             Console.WriteLine($"Cars have average horsepower of: {avgCarHP:f2}.");
             Console.WriteLine($"Trucks have average horsepower of: {avgTruckHP:f2}.");
@@ -52,7 +53,7 @@ namespace _06.VehicleCatalogue
 
     public class Vehicle
     {
-        public Vehicle(string type, string model, string color, int horsepower)
+        public Vehicle(string type, string model, string color, decimal horsepower)
         {
             Type = type;
             Model = model;
@@ -63,7 +64,7 @@ namespace _06.VehicleCatalogue
         public string Type { get; set; }
         public string Model { get; set; }
         public string Color { get; set; }
-        public int Horsepower { get; set; }
+        public decimal Horsepower { get; set; }
 
         public override string ToString()
         {

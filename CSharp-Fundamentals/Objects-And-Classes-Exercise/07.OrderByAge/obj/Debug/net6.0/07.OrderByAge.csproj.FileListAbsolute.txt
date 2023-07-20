@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\bin\Debug\net6.0\07.OrderByAge.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\refint\07.OrderByAge.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\07.OrderByAge.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Objects-And-Classes-Exercise\07.OrderByAge\obj\Debug\net6.0\ref\07.OrderByAge.dll
