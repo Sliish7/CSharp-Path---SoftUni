@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\bin\Debug\net6.0\BitAtPos1.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\bin\Debug\net6.0\BitAtPos1.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\bin\Debug\net6.0\BitAtPos1.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\bin\Debug\net6.0\BitAtPos1.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\bin\Debug\net6.0\BitAtPos1.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\refint\BitAtPos1.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\BitAtPos1.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitAtPos1\obj\Debug\net6.0\ref\BitAtPos1.dll

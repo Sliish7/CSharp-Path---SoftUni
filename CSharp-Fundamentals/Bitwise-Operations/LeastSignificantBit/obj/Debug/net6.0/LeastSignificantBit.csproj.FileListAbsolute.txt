@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\bin\Debug\net6.0\LeastSignificantBit.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\bin\Debug\net6.0\LeastSignificantBit.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\bin\Debug\net6.0\LeastSignificantBit.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\bin\Debug\net6.0\LeastSignificantBit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\bin\Debug\net6.0\LeastSignificantBit.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\refint\LeastSignificantBit.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\LeastSignificantBit.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\LeastSignificantBit\obj\Debug\net6.0\ref\LeastSignificantBit.dll

@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\bin\Debug\net6.0\BitDestroyer.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\bin\Debug\net6.0\BitDestroyer.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\bin\Debug\net6.0\BitDestroyer.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\bin\Debug\net6.0\BitDestroyer.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\bin\Debug\net6.0\BitDestroyer.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\refint\BitDestroyer.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\BitDestroyer.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Bitwise-Operations\BitDestroyer\obj\Debug\net6.0\ref\BitDestroyer.dll
