@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\refint\04.SoftUniParking.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\ref\04.SoftUniParking.dll
