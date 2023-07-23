@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\bin\Debug\net6.0\6.ReplaceRepeatingChar.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\bin\Debug\net6.0\6.ReplaceRepeatingChar.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\bin\Debug\net6.0\6.ReplaceRepeatingChar.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\bin\Debug\net6.0\6.ReplaceRepeatingChar.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\bin\Debug\net6.0\6.ReplaceRepeatingChar.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\refint\6.ReplaceRepeatingChar.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\6.ReplaceRepeatingChar.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\6.ReplaceRepeatingChar\obj\Debug\net6.0\ref\6.ReplaceRepeatingChar.dll
