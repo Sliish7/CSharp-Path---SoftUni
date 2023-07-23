@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\refint\06.StudentAcademy.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\Associative-Arrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\ref\06.StudentAcademy.dll
