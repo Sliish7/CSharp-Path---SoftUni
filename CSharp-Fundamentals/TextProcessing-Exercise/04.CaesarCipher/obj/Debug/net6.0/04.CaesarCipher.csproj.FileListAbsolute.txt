@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\refint\04.CaesarCipher.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\ref\04.CaesarCipher.dll

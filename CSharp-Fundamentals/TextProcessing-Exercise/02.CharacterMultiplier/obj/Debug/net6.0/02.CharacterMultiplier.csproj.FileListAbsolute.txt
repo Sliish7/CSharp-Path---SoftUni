@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\refint\02.CharacterMultiplier.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\net6.0\ref\02.CharacterMultiplier.dll
