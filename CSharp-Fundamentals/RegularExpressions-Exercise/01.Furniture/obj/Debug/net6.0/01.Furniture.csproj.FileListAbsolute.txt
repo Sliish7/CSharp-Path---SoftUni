@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\bin\Debug\net6.0\01.Furniture.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\bin\Debug\net6.0\01.Furniture.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\bin\Debug\net6.0\01.Furniture.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\bin\Debug\net6.0\01.Furniture.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\bin\Debug\net6.0\01.Furniture.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\refint\01.Furniture.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\01.Furniture.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Fundamentals\RegularExpressions-Exercise\01.Furniture\obj\Debug\net6.0\ref\01.Furniture.dll
