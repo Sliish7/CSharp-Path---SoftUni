@@ -24,7 +24,6 @@ namespace _01.Furniture
                     int quantity = int.Parse(match.Groups["quantity"].Value);
                     totalPrice += price * quantity;
                 }
-
                 input = Console.ReadLine();
             }
 
