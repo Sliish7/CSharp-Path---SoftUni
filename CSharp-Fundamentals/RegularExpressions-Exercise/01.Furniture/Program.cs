@@ -28,6 +28,7 @@ namespace _01.Furniture
             }
 
             Console.WriteLine("Bought furniture:");
+
             foreach (string furniture in furnitures)
             {
                 Console.WriteLine(furniture);
