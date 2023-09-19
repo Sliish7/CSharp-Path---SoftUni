@@ -22,7 +22,7 @@
 
                 if (stack.Contains(target))
                 {
-                    Console.WriteLine(true);
+                    Console.WriteLine("true");
                 }
                 else
                     Console.WriteLine(stack.Min());

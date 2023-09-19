@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\refint\03.MaximumAndMinimumElement.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\ref\03.MaximumAndMinimumElement.dll

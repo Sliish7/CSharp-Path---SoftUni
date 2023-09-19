@@ -22,7 +22,7 @@
 
                 if (queue.Contains(target))
                 {
-                    Console.WriteLine("True");
+                    Console.WriteLine("true");
                 }
                 else
                     Console.WriteLine(queue.Min());
