@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\refint\04.FastFood.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\04.FastFood\obj\Debug\net6.0\ref\04.FastFood.dll
