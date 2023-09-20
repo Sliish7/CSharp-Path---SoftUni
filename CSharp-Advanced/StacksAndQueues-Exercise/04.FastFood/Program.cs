@@ -18,7 +18,6 @@
                 else
                     break;
             }
-
             Console.WriteLine(biggestOrder);
 
             if (queue.Count == 0)
