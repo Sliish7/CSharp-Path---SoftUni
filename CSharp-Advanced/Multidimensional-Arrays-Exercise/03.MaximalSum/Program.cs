@@ -4,16 +4,19 @@
     {
         static void Main()
         {
-            int[] size = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+            int[] size = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int[,] matrix = new int[size[0], size[1]];
 
-            int maxSum = 0;
+            int maxSum = int.MinValue;
             int startRow = 0;
             int startCol = 0;
 
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
-                int[] inputRow = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+                int[] inputRow = Console.ReadLine()
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
 
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
@@ -21,11 +24,11 @@
                 }
             }
 
-            for (int row = 1; row < matrix.GetLength(0) - 2; row++)
+            for (int row = 0; row < matrix.GetLength(0) - 2; row++)
             {
                 int currSum = 0;
 
-                for (int col = 1; col < matrix.GetLength(1) - 2; col++)
+                for (int col = 0; col < matrix.GetLength(1) - 2; col++)
                 {
                     int currElement = matrix[row, col];
                     currSum = currElement + matrix[row + 1, col + 1] +
