@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net6.0\08.BalancedParenthesis.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net6.0\08.BalancedParenthesis.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net6.0\08.BalancedParenthesis.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net6.0\08.BalancedParenthesis.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net6.0\08.BalancedParenthesis.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\refint\08.BalancedParenthesis.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\08.BalancedParenthesis.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net6.0\ref\08.BalancedParenthesis.dll

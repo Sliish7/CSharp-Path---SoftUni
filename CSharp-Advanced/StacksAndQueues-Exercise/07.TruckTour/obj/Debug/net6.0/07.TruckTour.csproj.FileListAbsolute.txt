@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\refint\07.TruckTour.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StacksAndQueues-Exercise\07.TruckTour\obj\Debug\net6.0\ref\07.TruckTour.dll
