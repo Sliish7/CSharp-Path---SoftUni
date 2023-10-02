@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\refint\05.CountSymbols.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\05.CountSymbols\obj\Debug\net6.0\ref\05.CountSymbols.dll
