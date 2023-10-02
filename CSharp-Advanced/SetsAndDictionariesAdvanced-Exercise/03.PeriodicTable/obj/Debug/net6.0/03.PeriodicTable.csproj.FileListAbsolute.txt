@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\refint\03.PeriodicTable.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\SetsAndDictionariesAdvanced-Exercise\03.PeriodicTable\obj\Debug\net6.0\ref\03.PeriodicTable.dll
