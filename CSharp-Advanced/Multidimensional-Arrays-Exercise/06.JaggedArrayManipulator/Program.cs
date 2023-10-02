@@ -22,7 +22,7 @@ namespace _06.JaggedArrayManipulator
             AnalyzeMatrix(jaggedMatrix);
 
             string input = string.Empty;
-            while ((input = Console.ReadLine()) != "END")
+            while ((input = Console.ReadLine()) != "End")
             {
                 string[] parameters = input.Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
                 string command = parameters[0];
