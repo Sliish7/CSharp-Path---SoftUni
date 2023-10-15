@@ -40,7 +40,7 @@ namespace _06.Wardrobe
 
                 foreach (var kvpCloth in clothes)
                 {
-                    string found = (kvpColor.Key == searchCommand[0] && kvpCloth.Key == searchCommand[1]) ? " (found!)" : "";
+                    string found = (kvpColor.Key == searchCommand[0] && kvpCloth.Key == searchCommand[1]) ? "(found!)" :"";
                     Console.WriteLine($"* {kvpCloth.Key} - {kvpCloth.Value} {found}");
                 }
             }
