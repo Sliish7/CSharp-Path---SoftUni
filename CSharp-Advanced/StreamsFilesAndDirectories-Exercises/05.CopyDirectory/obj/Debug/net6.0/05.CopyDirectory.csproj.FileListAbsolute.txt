@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\refint\05.CopyDirectory.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\05.CopyDirectory\obj\Debug\net6.0\ref\05.CopyDirectory.dll

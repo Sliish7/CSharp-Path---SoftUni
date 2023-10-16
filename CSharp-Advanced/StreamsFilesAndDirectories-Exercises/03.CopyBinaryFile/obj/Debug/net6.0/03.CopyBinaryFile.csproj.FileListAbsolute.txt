@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\refint\03.CopyBinaryFile.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\03.CopyBinaryFile\obj\Debug\net6.0\ref\03.CopyBinaryFile.dll
