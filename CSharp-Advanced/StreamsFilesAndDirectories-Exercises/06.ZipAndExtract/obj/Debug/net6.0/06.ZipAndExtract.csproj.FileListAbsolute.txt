@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\bin\Debug\net6.0\06.ZipAndExtract.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\bin\Debug\net6.0\06.ZipAndExtract.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\bin\Debug\net6.0\06.ZipAndExtract.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\bin\Debug\net6.0\06.ZipAndExtract.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\bin\Debug\net6.0\06.ZipAndExtract.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\refint\06.ZipAndExtract.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\06.ZipAndExtract.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\StreamsFilesAndDirectories-Exercises\06.ZipAndExtract\obj\Debug\net6.0\ref\06.ZipAndExtract.dll
