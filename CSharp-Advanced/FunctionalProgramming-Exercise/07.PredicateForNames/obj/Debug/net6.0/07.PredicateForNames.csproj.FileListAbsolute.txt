@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\refint\07.PredicateForNames.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\ref\07.PredicateForNames.dll
