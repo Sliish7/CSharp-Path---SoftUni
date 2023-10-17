@@ -25,7 +25,6 @@
                     numbers.Add(i);
                 }
             }
-
             Console.WriteLine(string.Join(" ", numbers));
         }
     }

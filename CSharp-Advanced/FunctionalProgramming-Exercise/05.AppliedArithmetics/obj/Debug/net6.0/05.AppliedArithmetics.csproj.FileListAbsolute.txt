@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\refint\05.AppliedArithmetics.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net6.0\ref\05.AppliedArithmetics.dll
