@@ -26,7 +26,7 @@ namespace _06.ReverseAndExclude
 
                 foreach (var num in numbers)
                 {
-                    if (num % n == 0)
+                    if (num % n != 0)
                     {
                         result.Add(num);
                     }
