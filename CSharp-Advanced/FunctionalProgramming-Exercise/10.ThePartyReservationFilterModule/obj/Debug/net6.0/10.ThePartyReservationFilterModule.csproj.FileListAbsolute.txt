@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\refint\10.ThePartyReservationFilterModule.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\ref\10.ThePartyReservationFilterModule.dll
