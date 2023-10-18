@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\refint\11.TriFunction.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net6.0\ref\11.TriFunction.dll
