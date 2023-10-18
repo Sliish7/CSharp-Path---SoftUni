@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.KnightsOfHonor", "02.Kni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{60006F6E-2949-4140-B7D7-D36EC55B380F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensOrOdds", "04.FindEvensOrOdds\04.FindEvensOrOdds.csproj", "{FFD9B8FA-A4D6-4767-86C4-2FD0B8E6B3CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FindEvensOrOdds", "04.FindEvensOrOdds\04.FindEvensOrOdds.csproj", "{FFD9B8FA-A4D6-4767-86C4-2FD0B8E6B3CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{A93D83B9-DF7A-4CA8-BD9A-EBD57B5B35CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{A93D83B9-DF7A-4CA8-BD9A-EBD57B5B35CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{E1C2F368-A972-42CE-8322-38BE80DA5B51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{E1C2F368-A972-42CE-8322-38BE80DA5B51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{1FDA6443-5757-4E02-85ED-DE7435B75E73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{1FDA6443-5757-4E02-85ED-DE7435B75E73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ListOfPredicates", "08.ListOfPredicates\08.ListOfPredicates.csproj", "{00C0963B-DAA4-4B05-9CE6-D7B7F508316D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.ListOfPredicates", "08.ListOfPredicates\08.ListOfPredicates.csproj", "{00C0963B-DAA4-4B05-9CE6-D7B7F508316D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PredicateParty", "09.PredicateParty\09.PredicateParty.csproj", "{60DC9E43-3F96-4A26-8513-5113CD10A6E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{00C0963B-DAA4-4B05-9CE6-D7B7F508316D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00C0963B-DAA4-4B05-9CE6-D7B7F508316D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00C0963B-DAA4-4B05-9CE6-D7B7F508316D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DC9E43-3F96-4A26-8513-5113CD10A6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DC9E43-3F96-4A26-8513-5113CD10A6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DC9E43-3F96-4A26-8513-5113CD10A6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DC9E43-3F96-4A26-8513-5113CD10A6E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
