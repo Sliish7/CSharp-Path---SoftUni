@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\refint\06.SpeedRacing.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\06.SpeedRacing\obj\Debug\net6.0\ref\06.SpeedRacing.dll

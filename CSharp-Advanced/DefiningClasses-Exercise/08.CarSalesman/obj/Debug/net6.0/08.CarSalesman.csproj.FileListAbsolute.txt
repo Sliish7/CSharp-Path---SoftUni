@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\bin\Debug\net6.0\08.CarSalesman.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\refint\08.CarSalesman.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\08.CarSalesman.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\08.CarSalesman\obj\Debug\net6.0\ref\08.CarSalesman.dll

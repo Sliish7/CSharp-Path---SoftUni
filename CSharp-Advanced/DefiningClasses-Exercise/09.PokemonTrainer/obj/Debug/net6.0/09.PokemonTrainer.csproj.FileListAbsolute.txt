@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\refint\09.PokemonTrainer.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\DefiningClasses-Exercise\09.PokemonTrainer\obj\Debug\net6.0\ref\09.PokemonTrainer.dll
