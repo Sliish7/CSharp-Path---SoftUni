@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\refint\02.GenericBoxOfInteger.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\ref\02.GenericBoxOfInteger.dll

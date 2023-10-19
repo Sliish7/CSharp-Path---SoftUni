@@ -1,0 +1,15 @@
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.exe
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.deps.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.runtimeconfig.json
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.AssemblyInfo.cs
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\refint\04.GenericSwapMethodInteger.dll
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.pdb
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.genruntimeconfig.cache
+D:\GitHub\CSharp-Path---SoftUni\CSharp-Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\ref\04.GenericSwapMethodInteger.dll
